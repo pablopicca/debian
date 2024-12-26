@@ -1,2 +1,2 @@
-test=prueba
+test="prueba"
 nombre="pablo"
